@@ -4,7 +4,7 @@ A bookmarklet which generates an image and alt text for sharing your [Wordle](ht
 ![Wordle image generator screenshot](./screenshot.png)
 
 ## Usage
-Simply save a new bookmark in your web browser and set the URL to the contents of [bookmarklet.txt](./bookmarklet.txt).
+Simply save a new bookmark in your web browser and set the URL to the contents of [bookmarklet.txt](https://github.com/andrew-mc/wordle-result-image-generator/raw/main/bookmarklet.txt).
 
 When you've finished a Wordle and want to share your results, click the bookmark while the game is open and a pop-up will appear with an image and alt text for you to copy.
 
