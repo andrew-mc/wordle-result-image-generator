@@ -1,5 +1,5 @@
 # Wordle Result Image Generator
-A bookmarklet which generates an image and alt text for sharing your Wordle results, which is hopefully a tad less painful for people using screen readers than a horde of emoji squares 😉
+A bookmarklet which generates an image and alt text for sharing your [Wordle](https://powerlanguage.co.uk/wordle/) results, which is hopefully a tad less painful for people using screen readers than a horde of emoji squares 😉
 
 ![Wordle image generator screenshot](./screenshot.png)
 
